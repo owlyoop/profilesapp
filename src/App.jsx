@@ -45,7 +45,7 @@ return (
 		margin="0 auto"
 	>
 		<Heading level={1}>My Profile</Heading>
-		
+		<Heading level={2}>Trey Kreis - CSCE 3420 - 11/7/2025</Heading>
 		<Divider />
 		<Grid
 			margin="3rem 0"
